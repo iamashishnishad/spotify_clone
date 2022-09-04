@@ -6,7 +6,7 @@ This is the full stack working spotify clone created with React and Redux.
 
 In the project directory, you can run:
 
-### `npm install`
+### `npx create-react-app my-app --template redux`
 ### `npm start`
 
 ## Screenshots
